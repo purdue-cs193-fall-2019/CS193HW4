@@ -4,7 +4,7 @@
 In this assignment, you will be working on the basics of git. Git, as you heard from lecture, is amazing for keeping track of source code. The website you're currently reading this on, and for all the past homeworks as well, is GitHub. There **is** a difference between Git and GitHub! Think of Git as the local repository and GitHub as the central repository. The local repository is what you have on your computer. So when you transfer something from your local repository, you are transferring it to GitHub. In this homework, you will be practicing source control using Git and managing your local and central repository. Afterward, you will be answering questions and turning those answers in on GitHub. 
  
 ## When is this due?
-This homework will be due on Monday, 03/11
+This homework will be due on Wednesday, 03/11
  
 ## When will I know I'm done?
 Advice: read the steps!!
