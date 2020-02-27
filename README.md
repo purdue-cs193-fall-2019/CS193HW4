@@ -4,7 +4,7 @@
 In this assignment, you will be working on the basics of git. Git, as you heard from lecture, is amazing for keeping track of source code. The website you're currently reading this on, and for all the past homeworks as well, is GitHub. There **is** a difference between Git and GitHub! Think of Git as the local repository and GitHub as the central repository. The local repository is what you have on your computer. So when you transfer something from your local repository, you are transferring it to GitHub. In this homework, you will be practicing source control using Git and managing your local and central repository. Afterward, you will be answering questions and turning those answers in on GitHub. 
  
 ## When is this due?
-This homework will be due on Monday, 11/04
+This homework will be due on Monday, 03/11
  
 ## When will I know I'm done?
 Advice: read the steps!!
@@ -15,7 +15,7 @@ Keep in mind: **For us to see your work it has to be on GitHub, aka the central 
  
 ## Step 1: Clone the repository. TODOs exist here
 ### TODO 1 
-As you've done before, everything git related usually starts with a clone. Once you have created your copy of the Homework 4 repository (`homework-4-<your GitHub username>`), **run** the command `git clone https://github.com/purdue-cs193-fall-2019/homework-4-<your GitHub username>.git`. As you know, all this command does is to download a copy of the *remote* repository to your *local* machine. 
+As you've done before, everything git related usually starts with a clone. Once you have created your copy of the Homework 4 repository (`homework-4-<your GitHub username>`), **run** the command `git clone https://github.com/purdue-cs193-spring-2020/homework-4-<your GitHub username>.git`. As you know, all this command does is to download a copy of the *remote* repository to your *local* machine. 
  
 Now if you run `ls`, you should see a directory called `homework-4-<your GitHub username>`. `cd` into this directory and run `ls` again and you should see all the same files that GitHub shows in the browser for this repository. 
  
