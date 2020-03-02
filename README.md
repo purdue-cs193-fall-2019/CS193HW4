@@ -15,7 +15,7 @@ Keep in mind: **For us to see your work it has to be on GitHub, aka the central 
  
 ## Step 1: Clone the repository. TODOs exist here
 ### TODO 1 
-As you've done before, everything git related usually starts with a clone. Once you have created your copy of the Homework 4 repository (`homework-4-<your GitHub username>`), **run** the command `git clone https://github.com/purdue-cs193-spring-2020/homework-4-<your GitHub username>.git`. As you know, all this command does is to download a copy of the *remote* repository to your *local* machine. 
+As you've done before, everything git related usually starts with a clone. Once you have created your copy of the Homework 4 repository (`homework-4-<your GitHub username>`), **run** the command `git clone https://github.com/Purdue-CS193/homework-4-<your GitHub username>.git`. As you know, all this command does is to download a copy of the *remote* repository to your *local* machine. 
  
 Now if you run `ls`, you should see a directory called `homework-4-<your GitHub username>`. `cd` into this directory and run `ls` again and you should see all the same files that GitHub shows in the browser for this repository. 
  
